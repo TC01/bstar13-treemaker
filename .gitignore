@@ -60,3 +60,7 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+working/
+*.root
+*.log
+*cuts_report.txt
